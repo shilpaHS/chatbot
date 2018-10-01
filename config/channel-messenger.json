@@ -1,0 +1,37 @@
+{
+  "applicationID": "503265810140282", 
+  "accessToken": "EAAHJt7PXTHoBANRZC6n2g0Sj89eaUPa6x8NL3Ko4rTHt1i4c5z7tQKU5ZCIrx60DkwuMoTGadjU6dbwH591ZBDiJ3V65C0rtqyXy2rJ698cLZCqZAWiS8jeiCPrmpip5oNdASUIZCaJdQQBj8z7lg7jdGVoooMTALCZCQLXwIRfMQZDZD",
+  "appSecret": "b97c599d9188f1a9020f12d51ecfd004", 
+
+  "verifyToken": "sd",
+  "hostname": "https://098a4fa8.ngrok.io",
+  "graphVersion": "2.12",
+  "enabled": true,
+
+  "displayGetStarted": true,
+  "greetingMessage": "Default greeting message",
+  "persistentMenu": [],
+  "persistentMenuItems": [],
+
+  "composerInputDisabled": false,
+  "automaticallyMarkAsRead": true,
+  "targetAudience": "openToAll",
+  "trustedDomains": [],
+
+  "autoResponseOption": "noResponse",
+  "autoResponseText": "Hello, human!",
+  "autoResponseTextRenderer": "#builtin_text",
+  "autoResponsePostback": "YOUR_POSTBACK",
+
+  "paymentTesters": [],
+  "chatExtensionHomeUrl": "",
+  "chatExtensionInTest": true,
+  "chatExtensionShowShareButton": false,
+  "webhookSubscriptionFields": [
+    "message_deliveries",
+    "messages",
+    "messaging_optins",
+    "messaging_postbacks",
+    "messaging_referrals"
+  ]
+}
